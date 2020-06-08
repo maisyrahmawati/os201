@@ -9,7 +9,7 @@
 
 * [URLs](URLs/)
 
-<img src="foto.jpg" width="240">
+<img src="myself.jpg" width="240">
 
 -- Maisy Rahmawati
 -- OS201 maisyrahmawati
